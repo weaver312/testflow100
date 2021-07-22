@@ -1,0 +1,12 @@
+{
+  "name": "my_first_midway_project",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "private": true,
+  "dependencies": {
+    "lodash": "*"
+  },
+  "scripts": {
+    "build": "true"
+  }
+}
